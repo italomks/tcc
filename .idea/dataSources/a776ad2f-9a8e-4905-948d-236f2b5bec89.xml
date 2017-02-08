@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="MySQL - db_curriculo@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+    <schema id="1" name="db_curriculo">
+      <visible>1</visible>
+    </schema>
+    <schema id="2" name="clientes"/>
+    <schema id="3" name="curso_php_oop"/>
+    <schema id="4" name="information_schema"/>
+    <schema id="5" name="mysql"/>
+    <schema id="6" name="performance_schema"/>
+    <schema id="7" name="sys"/>
+    <schema id="8" name="Cadastro"/>
+    <schema id="9" name="contatos"/>
+    <schema id="10" name="dnp"/>
+    <schema id="11" name="doctrinedb"/>
+    <schema id="12" name="escola_doctrine"/>
+    <schema id="13" name="login_tcc"/>
+    <schema id="14" name="mineracao_dados"/>
+    <schema id="15" name="mydb"/>
+    <schema id="16" name="novo"/>
+    <schema id="17" name="sisos"/>
+    <schema id="18" name="sistema_curriculo_tcc"/>
+    <schema id="19" name="tcc_hoje"/>
+    <table id="20" parent="1" name="Curriculos"/>
+    <column id="21" parent="20" name="id_nome">
+      <mandatory>1</mandatory>
+      <data-type>int(11)|0</data-type>
+      <sequence-identity>1</sequence-identity>
+    </column>
+    <column id="22" parent="20" name="nome_completo">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="23" parent="20" name="data_nascimento">
+      <mandatory>1</mandatory>
+      <data-type>date|0</data-type>
+    </column>
+    <column id="24" parent="20" name="sexo">
+      <mandatory>1</mandatory>
+      <data-type>char(3)|0</data-type>
+    </column>
+    <column id="25" parent="20" name="estado_civil">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="26" parent="20" name="mae">
+      <mandatory>1</mandatory>
+      <data-type>varchar(30)|0</data-type>
+    </column>
+    <column id="27" parent="20" name="pai">
+      <mandatory>1</mandatory>
+      <data-type>varchar(30)|0</data-type>
+    </column>
+    <column id="28" parent="20" name="cat_cnh">
+      <mandatory>1</mandatory>
+      <data-type>char(3)|0</data-type>
+    </column>
+    <column id="29" parent="20" name="cep">
+      <mandatory>1</mandatory>
+      <data-type>int(50)|0</data-type>
+    </column>
+    <column id="30" parent="20" name="estado">
+      <mandatory>1</mandatory>
+      <data-type>varchar(30)|0</data-type>
+    </column>
+    <column id="31" parent="20" name="cidade">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="32" parent="20" name="endereco">
+      <mandatory>1</mandatory>
+      <data-type>varchar(80)|0</data-type>
+    </column>
+    <column id="33" parent="20" name="numero">
+      <mandatory>1</mandatory>
+      <data-type>int(20)|0</data-type>
+    </column>
+    <column id="34" parent="20" name="bairro">
+      <mandatory>1</mandatory>
+      <data-type>varchar(30)|0</data-type>
+    </column>
+    <column id="35" parent="20" name="complemento">
+      <mandatory>1</mandatory>
+      <data-type>varchar(80)|0</data-type>
+    </column>
+    <column id="36" parent="20" name="ddd_telefone">
+      <mandatory>1</mandatory>
+      <data-type>char(3)|0</data-type>
+    </column>
+    <column id="37" parent="20" name="telefone">
+      <mandatory>1</mandatory>
+      <data-type>int(20)|0</data-type>
+    </column>
+    <column id="38" parent="20" name="ddd_celular">
+      <mandatory>1</mandatory>
+      <data-type>char(3)|0</data-type>
+    </column>
+    <column id="39" parent="20" name="celular">
+      <mandatory>1</mandatory>
+      <data-type>int(20)|0</data-type>
+    </column>
+    <column id="40" parent="20" name="ddd_telefone_recado">
+      <mandatory>1</mandatory>
+      <data-type>char(3)|0</data-type>
+    </column>
+    <column id="41" parent="20" name="telefone_recado">
+      <mandatory>1</mandatory>
+      <data-type>int(20)|0</data-type>
+    </column>
+    <column id="42" parent="20" name="contato_recado">
+      <mandatory>1</mandatory>
+      <data-type>varchar(30)|0</data-type>
+    </column>
+    <column id="43" parent="20" name="deficiencia">
+      <mandatory>1</mandatory>
+      <data-type>int(11)|0</data-type>
+    </column>
+    <column id="44" parent="20" name="informacao_deficiencia">
+      <mandatory>1</mandatory>
+      <data-type>varchar(80)|0</data-type>
+    </column>
+    <column id="45" parent="20" name="cargo_pretendido">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="46" parent="20" name="outro_cargo">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="47" parent="20" name="cidade_pretendida">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="48" parent="20" name="experiencia_profissional">
+      <mandatory>1</mandatory>
+      <data-type>varchar(80)|0</data-type>
+    </column>
+    <column id="49" parent="20" name="estado_empregaticio">
+      <mandatory>1</mandatory>
+      <data-type>varchar(20)|0</data-type>
+    </column>
+    <column id="50" parent="20" name="ultima_experiencia_profissional_nome_empresa">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="51" parent="20" name="ultima_experiencia_profissional_cargo">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="52" parent="20" name="ultima_experiencia_profissional_periodo_inicial">
+      <mandatory>1</mandatory>
+      <data-type>date|0</data-type>
+    </column>
+    <column id="53" parent="20" name="ultima_experiencia_profissional_periodo_final">
+      <mandatory>1</mandatory>
+      <data-type>date|0</data-type>
+    </column>
+    <column id="54" parent="20" name="escolaridade">
+      <mandatory>1</mandatory>
+      <data-type>varchar(80)|0</data-type>
+    </column>
+    <column id="55" parent="20" name="instituicao">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="56" parent="20" name="curso">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="57" parent="20" name="nivel_ingles">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="58" parent="20" name="nivel_espanhol">
+      <mandatory>1</mandatory>
+      <data-type>varchar(50)|0</data-type>
+    </column>
+    <column id="59" parent="20" name="pretencao_profissional">
+      <mandatory>1</mandatory>
+      <data-type>varchar(80)|0</data-type>
+    </column>
+    <column id="60" parent="20" name="conhecimento_informatica_editor_textos">
+      <mandatory>1</mandatory>
+      <data-type>varchar(10)|0</data-type>
+    </column>
+    <column id="61" parent="20" name="conhecimento_informatica_excel">
+      <mandatory>1</mandatory>
+      <data-type>varchar(10)|0</data-type>
+    </column>
+    <column id="62" parent="20" name="conhecimento_informatica_editor_power_point">
+      <mandatory>1</mandatory>
+      <data-type>varchar(10)|0</data-type>
+    </column>
+    <column id="63" parent="20" name="curriculo">
+      <data-type>text|0</data-type>
+    </column>
+    <column id="64" parent="20" name="espaco_pessoal">
+      <data-type>text|0</data-type>
+    </column>
+    <column id="65" parent="20" name="foto">
+      <data-type>varchar(200)|0</data-type>
+    </column>
+    <column id="66" parent="20" name="email">
+      <data-type>varchar(100)|0</data-type>
+    </column>
+    <column id="67" parent="20" name="qual_deficiencia">
+      <data-type>varchar(80)|0</data-type>
+    </column>
+    <key id="68" parent="20" name="PRIMARY">
+      <columns>id_nome</columns>
+      <primary>1</primary>
+    </key>
+  </database-model>
+</dataSource>

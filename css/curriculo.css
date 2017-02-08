@@ -1,0 +1,49 @@
+.estado{
+    width: 49%;
+}
+.campos_padronizados{
+    width: 173px;
+}
+.ddd{
+    width: 25px;
+}
+.falar_com{
+    width: 190px;
+}
+
+.title{
+    color: #065638;
+    padding-left: 1%;
+}
+.conteudo_principal{
+    border: 1px solid #065638;
+    border-radius: 10px;
+}
+
+.informacao{
+    clear: both;float:left;
+}
+.box_container{
+    border: 1px solid #065638;
+    border-radius: 10px;
+}
+
+.formacao_educacional{
+    color: #065638;
+}
+
+.informacao_conhecimento{
+    float:left;
+    margin-left:180px;margin-right: 300px;
+}
+.apresentacoes{
+    float:left;
+    margin-left:180px;
+}
+.padronizacao_div{
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+.req{
+    color: red;
+}

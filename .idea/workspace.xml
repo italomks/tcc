@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="600601da-831d-46e9-a985-f28bf00decdc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/a776ad2f-9a8e-4905-948d-236f2b5bec89.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/tcc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GERENCIAR/gerenciar_curriculo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PDO/conexao.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/abc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/curriculo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/envioEmail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foto_pessoal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/habilita_campo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
+    <ignored path="tcc.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - db_curriculo@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - db_curriculo@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Curriculos" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tcc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="curriculo.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/files/curriculo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#dd#1;n#div#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#dd#2;n#div#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#5560#5568#0#HTML" expanded="true" />
+                <element signature="e#11309#11317#0#HTML" expanded="true" />
+                <element signature="e#11765#11773#0#HTML" expanded="true" />
+                <element signature="e#12101#12109#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#dd#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#16457#16464#0#HTML" expanded="true" />
+                <element signature="e#16470#16478#0#HTML" expanded="true" />
+                <element signature="e#17007#17015#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#dd#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#17271#17278#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#18608#18616#0#HTML" expanded="true" />
+                <element signature="e#18634#18642#0#HTML" expanded="true" />
+                <element signature="e#18649#18657#0#HTML" expanded="true" />
+                <element signature="e#18774#18782#0#HTML" expanded="true" />
+                <element signature="e#18865#18873#0#HTML" expanded="true" />
+                <element signature="e#18891#18899#0#HTML" expanded="true" />
+                <element signature="e#18906#18914#0#HTML" expanded="true" />
+                <element signature="e#19030#19038#0#HTML" expanded="true" />
+                <element signature="e#19126#19134#0#HTML" expanded="true" />
+                <element signature="e#19224#19232#0#HTML" expanded="true" />
+                <element signature="e#19589#19597#0#HTML" expanded="true" />
+                <element signature="e#20028#20036#0#HTML" expanded="true" />
+                <element signature="e#20036#20044#0#HTML" expanded="true" />
+                <element signature="e#20928#20936#0#HTML" expanded="true" />
+                <element signature="e#20947#20954#0#HTML" expanded="true" />
+                <element signature="e#21364#21372#0#HTML" expanded="true" />
+                <element signature="e#21465#21473#0#HTML" expanded="true" />
+                <element signature="e#21555#21563#0#HTML" expanded="true" />
+                <element signature="e#21870#21878#0#HTML" expanded="true" />
+                <element signature="e#22306#22314#0#HTML" expanded="true" />
+                <element signature="e#22407#22415#0#HTML" expanded="true" />
+                <element signature="e#22497#22505#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#dd#5;n#div#0;n#dl#0;n#fieldset#0;n#div#3;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#22866#22874#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#dd#6;n#div#0;n#dl#0;n#fieldset#0;n#div#3;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#23694#23702#0#HTML" expanded="true" />
+                <element signature="e#23894#23902#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#dd#7;n#div#0;n#dl#0;n#fieldset#0;n#div#3;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#24143#24150#0#HTML" expanded="true" />
+                <element signature="e#24764#24772#0#HTML" expanded="true" />
+                <element signature="e#24976#24984#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#dd#8;n#div#0;n#dl#0;n#fieldset#0;n#div#3;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#25228#25236#0#HTML" expanded="true" />
+                <element signature="e#25236#25244#0#HTML" expanded="true" />
+                <element signature="e#25903#25911#0#HTML" expanded="true" />
+                <element signature="e#26129#26137#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#26924#26932#0#HTML" expanded="true" />
+                <element signature="e#26932#26940#0#HTML" expanded="true" />
+                <element signature="e#26944#26952#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#3;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#dd#2;n#dl#0;n#div#0;n#fieldset#0;n#div#3;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#dd#0;n#dl#0;n#div#0;n#fieldset#0;n#div#5;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#30633#30641#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#5;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#30893#30901#0#HTML" expanded="true" />
+                <element signature="e#31271#31279#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#dd#0;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#5;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#5;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#32981#32989#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#dd#0;n#dl#0;n#div#0;n#fieldset#0;n#div#7;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#34420#34428#0#HTML" expanded="true" />
+                <element signature="e#34539#34547#0#HTML" expanded="true" />
+                <element signature="e#34574#34582#0#HTML" expanded="true" />
+                <element signature="e#34582#34590#0#HTML" expanded="true" />
+                <element signature="e#34641#34649#0#HTML" expanded="true" />
+                <element signature="e#34657#34665#0#HTML" expanded="true" />
+                <element signature="e#34711#34719#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#7;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#textarea#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#7;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="curriculo07.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/curriculo07.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ultima_experiencia_profissional06.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/ultima_experiencia_profissional06.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-234">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#dd#0;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#1151#1159#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="informacoes_pessoais03.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/informacoes_pessoais03.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="125" column="6" selection-start-line="125" selection-start-column="6" selection-end-line="125" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#dd#7;n#div#0;n#dl#0;n#fieldset#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="e#5880#5888#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pretensao_profissional04.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/pretensao_profissional04.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="possui_experiencia05.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/possui_experiencia05.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="informacoes_pessoais01.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/informacoes_pessoais01.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-666">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="49" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#dd#1;n#div#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#dd#2;n#div#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="e#4720#4728#0#HTML" expanded="true" />
+                <element signature="e#10133#10141#0#HTML" expanded="true" />
+                <element signature="e#10561#10569#0#HTML" expanded="true" />
+                <element signature="e#10881#10889#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="diversidade02.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/diversidade02.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#dd#0;n#div#0;n#fieldset#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#430#437#0#HTML" expanded="true" />
+                <element signature="e#443#451#0#HTML" expanded="true" />
+                <element signature="e#940#948#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#dd#1;n#div#0;n#fieldset#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#1156#1163#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cabecalho.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/cabecalho.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="578" column="17" selection-start-line="578" selection-start-column="17" selection-end-line="578" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="curriculo.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/curriculo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>preten</find>
+      <find>foto</find>
+      <find>telefone</find>
+      <find>falar</find>
+      <find>formacao</find>
+      <find>Informacoes</find>
+      <find>informacoes_pe</find>
+      <find>informacoes</find>
+      <find>pretensao</find>
+      <find>diver</find>
+      <find>inform</find>
+      <find>possui e</find>
+      <find>*</find>
+      <find>SER</find>
+      <find>defi</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/includes/css/minify_002.css" />
+        <option value="$PROJECT_DIR$/includes/index.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a776ad2f-9a8e-4905-948d-236f2b5bec89/console_2.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a776ad2f-9a8e-4905-948d-236f2b5bec89/console_1.sql" />
+        <option value="$PROJECT_DIR$/tcc.php" />
+        <option value="$PROJECT_DIR$/pessoas.php" />
+        <option value="$PROJECT_DIR$/funcoes.inc.php" />
+        <option value="$PROJECT_DIR$/pass.php" />
+        <option value="$PROJECT_DIR$/foto_pessoal.php" />
+        <option value="$PROJECT_DIR$/files/informacao_pessoal02.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a776ad2f-9a8e-4905-948d-236f2b5bec89/console_4.sql" />
+        <option value="dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos" />
+        <option value="$PROJECT_DIR$/files/espaco_para_voce.php" />
+        <option value="$PROJECT_DIR$/files/diversidade.php" />
+        <option value="$PROJECT_DIR$/files/pretencao_profissional.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a776ad2f-9a8e-4905-948d-236f2b5bec89/console_5.sql" />
+        <option value="$PROJECT_DIR$/files/curriculo_informacao_pessoal.php" />
+        <option value="$PROJECT_DIR$/abc.php" />
+        <option value="$PROJECT_DIR$/envioEmail.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a776ad2f-9a8e-4905-948d-236f2b5bec89/console.sql" />
+        <option value="$PROJECT_DIR$/PDO/conexao.php" />
+        <option value="$PROJECT_DIR$/GERENCIAR/gerenciar_curriculo.php" />
+        <option value="$PROJECT_DIR$/css/curriculos.css" />
+        <option value="$PROJECT_DIR$/css/curriculo.css" />
+        <option value="$PROJECT_DIR$/files/cabecalho.php" />
+        <option value="$PROJECT_DIR$/includes/habilita_campo.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/files/informacoes_pessoais01.php" />
+        <option value="$PROJECT_DIR$/files/diversidade02.php" />
+        <option value="$PROJECT_DIR$/files/informacoes_pessoais03.php" />
+        <option value="$PROJECT_DIR$/files/pretensao_profissional04.php" />
+        <option value="$PROJECT_DIR$/files/possui_experiencia05.php" />
+        <option value="$PROJECT_DIR$/files/ultima_experiencia_profissional06.php" />
+        <option value="$PROJECT_DIR$/files/curriculo07.php" />
+        <option value="$PROJECT_DIR$/files/curriculo.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1916" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tcc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tcc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tcc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tcc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tcc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tcc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tcc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tcc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tcc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webpdv" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/includes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/imagens" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="600601da-831d-46e9-a985-f28bf00decdc" name="Default" comment="" />
+      <created>1472564115273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1472564115273</updated>
+      <workItem from="1472564116548" duration="2994000" />
+      <workItem from="1472641586977" duration="2173000" />
+      <workItem from="1472824274768" duration="5124000" />
+      <workItem from="1473078081273" duration="1869000" />
+      <workItem from="1473352283277" duration="50000" />
+      <workItem from="1473686211123" duration="2374000" />
+      <workItem from="1474310467233" duration="1148000" />
+      <workItem from="1474369407977" duration="17000" />
+      <workItem from="1479387424091" duration="757000" />
+      <workItem from="1480440893687" duration="95000" />
+      <workItem from="1480440988787" duration="15000" />
+      <workItem from="1482232845840" duration="26000" />
+      <workItem from="1482427711883" duration="5796000" />
+      <workItem from="1482487680289" duration="4413000" />
+      <workItem from="1483030413990" duration="4350000" />
+      <workItem from="1483035559538" duration="127000" />
+      <workItem from="1483092173527" duration="61000" />
+      <workItem from="1483352741556" duration="17403000" />
+      <workItem from="1483457747904" duration="4000" />
+      <workItem from="1483458133276" duration="7819000" />
+      <workItem from="1483524481264" duration="17278000" />
+      <workItem from="1483612274629" duration="11649000" />
+      <workItem from="1483791612020" duration="5806000" />
+      <workItem from="1483956221622" duration="2577000" />
+      <workItem from="1484224090086" duration="9961000" />
+      <workItem from="1484840597661" duration="6175000" />
+      <workItem from="1485365031141" duration="2549000" />
+      <workItem from="1485424927501" duration="248000" />
+      <workItem from="1485431822117" duration="3507000" />
+      <workItem from="1486144222874" duration="5148000" />
+      <workItem from="1486149429348" duration="735000" />
+      <workItem from="1486375889090" duration="12990000" />
+      <workItem from="1486462172552" duration="7072000" />
+      <workItem from="1486482006186" duration="3201000" />
+      <workItem from="1486485230732" duration="598000" />
+      <workItem from="1486548188706" duration="9041000" />
+      <workItem from="1486567985931" duration="798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="160960000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1916" height="1044" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15359828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20300752" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26771653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845894" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27567568" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32864866" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14285715" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20330843" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php" />
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date_c.php" />
+    <entry file="file://$PROJECT_DIR$/includes/funcoes.inc.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a776ad2f-9a8e-4905-948d-236f2b5bec89/console_4.sql" />
+    <entry file="file://$PROJECT_DIR$/files/espaco_para_voce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a776ad2f-9a8e-4905-948d-236f2b5bec89/console_5.sql" />
+    <entry file="file://$PROJECT_DIR$/files/curriculo_informacao_pessoal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="67" selection-start-line="0" selection-start-column="0" selection-end-line="230" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/informacao_pessoal02.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="73" selection-start-line="0" selection-start-column="0" selection-end-line="113" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/diversidade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="118" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/pretencao_profissional.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="93" column="51" selection-start-line="0" selection-start-column="0" selection-end-line="111" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c3755ccc/a776ad2f-9a8e-4905-948d-236f2b5bec89/db_curriculo.Curriculos">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pass.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.smtp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/PDO.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a776ad2f-9a8e-4905-948d-236f2b5bec89/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/curriculos.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="228" column="16" selection-start-line="228" selection-start-column="16" selection-end-line="228" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foto_pessoal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GERENCIAR/gerenciar_curriculo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDO/conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <marker date="1486489611229" expanded="true" signature="26:114" ph="{...}" />
+            <marker date="1486489611229" expanded="true" signature="140:264" ph="{...}" />
+            <marker date="1486489611229" expanded="true" signature="290:509" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/envioEmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/habilita_campo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/curriculo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/cabecalho.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="578" column="17" selection-start-line="578" selection-start-column="17" selection-end-line="578" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/informacoes_pessoais01.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-666">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#dd#1;n#div#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#dd#2;n#div#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#4720#4728#0#HTML" expanded="true" />
+            <element signature="e#10133#10141#0#HTML" expanded="true" />
+            <element signature="e#10561#10569#0#HTML" expanded="true" />
+            <element signature="e#10881#10889#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/diversidade02.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#dd#0;n#div#0;n#fieldset#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#430#437#0#HTML" expanded="true" />
+            <element signature="e#443#451#0#HTML" expanded="true" />
+            <element signature="e#940#948#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#dd#1;n#div#0;n#fieldset#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#1156#1163#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/informacoes_pessoais03.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="125" column="6" selection-start-line="125" selection-start-column="6" selection-end-line="125" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#dd#7;n#div#0;n#dl#0;n#fieldset#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#5880#5888#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/pretensao_profissional04.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/possui_experiencia05.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/ultima_experiencia_profissional06.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#dd#0;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#1151#1159#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/curriculo07.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/curriculo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#dd#1;n#div#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#dd#2;n#div#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#5560#5568#0#HTML" expanded="true" />
+            <element signature="e#11309#11317#0#HTML" expanded="true" />
+            <element signature="e#11765#11773#0#HTML" expanded="true" />
+            <element signature="e#12101#12109#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#dd#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#16457#16464#0#HTML" expanded="true" />
+            <element signature="e#16470#16478#0#HTML" expanded="true" />
+            <element signature="e#17007#17015#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#dd#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#17271#17278#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#18608#18616#0#HTML" expanded="true" />
+            <element signature="e#18634#18642#0#HTML" expanded="true" />
+            <element signature="e#18649#18657#0#HTML" expanded="true" />
+            <element signature="e#18774#18782#0#HTML" expanded="true" />
+            <element signature="e#18865#18873#0#HTML" expanded="true" />
+            <element signature="e#18891#18899#0#HTML" expanded="true" />
+            <element signature="e#18906#18914#0#HTML" expanded="true" />
+            <element signature="e#19030#19038#0#HTML" expanded="true" />
+            <element signature="e#19126#19134#0#HTML" expanded="true" />
+            <element signature="e#19224#19232#0#HTML" expanded="true" />
+            <element signature="e#19589#19597#0#HTML" expanded="true" />
+            <element signature="e#20028#20036#0#HTML" expanded="true" />
+            <element signature="e#20036#20044#0#HTML" expanded="true" />
+            <element signature="e#20928#20936#0#HTML" expanded="true" />
+            <element signature="e#20947#20954#0#HTML" expanded="true" />
+            <element signature="e#21364#21372#0#HTML" expanded="true" />
+            <element signature="e#21465#21473#0#HTML" expanded="true" />
+            <element signature="e#21555#21563#0#HTML" expanded="true" />
+            <element signature="e#21870#21878#0#HTML" expanded="true" />
+            <element signature="e#22306#22314#0#HTML" expanded="true" />
+            <element signature="e#22407#22415#0#HTML" expanded="true" />
+            <element signature="e#22497#22505#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#dd#5;n#div#0;n#dl#0;n#fieldset#0;n#div#3;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#22866#22874#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#dd#6;n#div#0;n#dl#0;n#fieldset#0;n#div#3;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#23694#23702#0#HTML" expanded="true" />
+            <element signature="e#23894#23902#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#dd#7;n#div#0;n#dl#0;n#fieldset#0;n#div#3;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#24143#24150#0#HTML" expanded="true" />
+            <element signature="e#24764#24772#0#HTML" expanded="true" />
+            <element signature="e#24976#24984#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#dd#8;n#div#0;n#dl#0;n#fieldset#0;n#div#3;n#div#1;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#25228#25236#0#HTML" expanded="true" />
+            <element signature="e#25236#25244#0#HTML" expanded="true" />
+            <element signature="e#25903#25911#0#HTML" expanded="true" />
+            <element signature="e#26129#26137#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#26924#26932#0#HTML" expanded="true" />
+            <element signature="e#26932#26940#0#HTML" expanded="true" />
+            <element signature="e#26944#26952#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#3;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#dd#2;n#dl#0;n#div#0;n#fieldset#0;n#div#3;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#dd#0;n#dl#0;n#div#0;n#fieldset#0;n#div#5;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#30633#30641#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#5;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#30893#30901#0#HTML" expanded="true" />
+            <element signature="e#31271#31279#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#dd#0;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#5;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#0;n#div#5;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#32981#32989#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#dd#0;n#dl#0;n#div#0;n#fieldset#0;n#div#7;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#34420#34428#0#HTML" expanded="true" />
+            <element signature="e#34539#34547#0#HTML" expanded="true" />
+            <element signature="e#34574#34582#0#HTML" expanded="true" />
+            <element signature="e#34582#34590#0#HTML" expanded="true" />
+            <element signature="e#34641#34649#0#HTML" expanded="true" />
+            <element signature="e#34657#34665#0#HTML" expanded="true" />
+            <element signature="e#34711#34719#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#7;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#dd#1;n#dl#0;n#div#0;n#fieldset#0;n#div#7;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
